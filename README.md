@@ -2,7 +2,7 @@
 
 ### Responsive Landing Page
 
-- Responsive Landing Website Design Using HTML CSS & JavaScript
+- Responsive Landing Website Design Using React Js , Tialwind Css and Three js
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Contains a search & login modal.
